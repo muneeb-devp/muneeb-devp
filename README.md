@@ -28,13 +28,13 @@ public sealed class Muneeb : IPrincipalEngineer
 }
 ```
 
-### 🛠 What I actually do
+###  What I actually do
 
 Design systems that stay up. That usually means clear API contracts, services that fail
 independently, and release processes dull enough that nobody watches the dashboard at 2 AM.
 The rest of the time I'm reviewing PRs and helping engineers get faster.
 
-### 📈 A few numbers I'm fond of
+###  A few numbers I'm fond of
 
 | What | Before → After |
 | :--- | :--- |
@@ -43,7 +43,7 @@ The rest of the time I'm reviewing PRs and helping engineers get faster.
 | Third-party API credits | **−50%** — debouncing + caching, and 40% less server load |
 | Postgres query perf | **+30%** — schema redesign and some honest SQL |
 
-### 🧰 The toolbox
+###  The toolbox
 
 **Languages** &nbsp;C# · Python · Go · Node.js · SQL
 **Frameworks** &nbsp;ASP.NET Core · Django · Flask · Gin
@@ -51,7 +51,7 @@ The rest of the time I'm reviewing PRs and helping engineers get faster.
 **Data** &nbsp;PostgreSQL · MS SQL Server · MongoDB · DynamoDB · MySQL
 **Cloud** &nbsp;AWS (EC2, S3, DynamoDB, CodePipeline) · Azure (App Services, Container Apps) · Docker · CI/CD
 
-### 🧭 How I work
+###  How I work
 
 - **Small PRs, self-tested.** If I wouldn't approve it, I don't open it.
 - **Design before code.** A whiteboard hour saves a migration weekend.
