@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <i>I make servers do more with less — and leave the codebase tidier than I found it.</i>
+  <i>I make servers do more with less and leave the codebase tidier than I found it.</i>
 </p>
 
 ---
